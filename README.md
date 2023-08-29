@@ -1,1 +1,1 @@
-# Financial-Business-Analytics-Real-Options
+The theory underpinning the use of Real Options as a business decision-making tool, i.e., a discussion of the positive and negative characteristics of Real options, I considered the Journal Article (Application of real options analysis for pharmaceutical R&D project valuation—Empirical results from a survey by Marcus Hartmann and Ali Hassan) and outlined the findings made by the researchers regarding the use of Real Options in a real-world scenario.
